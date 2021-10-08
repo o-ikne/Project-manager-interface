@@ -1,4 +1,4 @@
-# To-do-App-interface
+# __Project manager interface__
 
 This repository contains an application interface for projects to be done. It's build using mainly __PyQt5__.
 
