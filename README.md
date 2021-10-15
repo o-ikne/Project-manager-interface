@@ -1,5 +1,7 @@
 ## __Project manager interface__
 
+### __Overview__
+
 This repository contains an application interface for projects to be done. It's build using mainly __PyQt5__.
 
 The proposed interface allow users to create their own account and manage their different projects.
@@ -16,5 +18,6 @@ Each project contains a number of tasks, the user can add as many tasks as he/sh
 The project still needs some improvements, and some final testing to be done!
 
 ### __Installation__
+
 To use the interface you need to install the following requirements:
 ```pip install -r requirements.txt```
