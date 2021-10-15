@@ -21,4 +21,6 @@ The project still needs some improvements, and some final testing to be done!
 
 To use the interface you need to install the following requirements:
 
-```pip install -r requirements.txt```
+```python
+pip install -r requirements.txt
+```
