@@ -1,11 +1,8 @@
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=o-ikne/Project-manager-interface)
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=o-ikne.Project-manager-interface)
-
-
 [![Generic badge](https://img.shields.io/badge/Made_With-Python-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Library-PyQt5-red.svg)](https://shields.io/)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=o-ikne.Project-manager-interface)
 
 ## __Project manager interface__
 
